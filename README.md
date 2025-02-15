@@ -6,6 +6,8 @@ A simple and modern Weather App with a search bar, error detection, and OpenWeat
 ![Image](https://github.com/user-attachments/assets/20ae9e5e-2fe6-4165-a9c2-0df1697f89b4)
 
 🌟 Features
+
+
 ✅ Search for city weather – Enter a city name and get real-time weather details.
 
 
