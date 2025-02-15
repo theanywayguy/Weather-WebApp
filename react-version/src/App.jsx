@@ -2,7 +2,7 @@ import { useState } from "react";
 import SearchBar from "./components/SearchBar";
 import WeatherCard from "./components/WeatherCard";
 
-const API_KEY = "c6ec6baa91b90fafdacb67ab74bc2738";
+const API_KEY = "YOUR-API-KEY";
 const apiWeatherUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
