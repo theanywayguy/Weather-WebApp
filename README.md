@@ -1,4 +1,6 @@
 ☁️ Weather App
+
+
 A simple and modern Weather App with a search bar, error detection, and OpenWeather API integration. Built in both Vanilla JavaScript and React.js.
 
 ![Image](https://github.com/user-attachments/assets/135c51b8-b311-4b46-9253-68f698f4c83b)
